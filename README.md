@@ -1,3 +1,5 @@
+![Cloud-Devops-1024x529](https://github.com/user-attachments/assets/b0f56274-6153-44cf-8729-da24170c65bd)
+
 <h1 align="center">Hello 👋, I'm Vaibhav </h1>
 
 
