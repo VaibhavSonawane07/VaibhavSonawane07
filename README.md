@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate cloud & devops engineer from India<br><br>🔭 I’m currently working on devops Projects<br><br>🌱 I’m currently learning kubernetes 
+A passionate cloud & devops engineer <br><br>🔭 I’m currently working on devops Projects<br><br>🌱 I’m currently learning IaC
 
 
 ## 🌐 Socials:
