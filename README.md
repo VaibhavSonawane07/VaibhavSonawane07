@@ -1,5 +1,3 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif)
-
 <h1 align="center">Hello 👋, I'm Vaibhav </h1>
 
 
