@@ -1,5 +1,3 @@
-https://github.com/Vaibhav#----
-
 # 💫 About Me:
 A passionate cloud & devops engineer <br><br>🔭 I’m currently working on devops Projects<br><br>🌱 I’m currently learning IaC
 
