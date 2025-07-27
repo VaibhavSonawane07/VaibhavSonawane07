@@ -2,7 +2,6 @@
 
 <h1 align="center">Hello 👋, I'm Vaibhav </h1>
 
-
 # 💫 About Me:
 
 A passionate cloud & devops engineer <br><br>
