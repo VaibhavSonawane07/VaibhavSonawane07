@@ -11,9 +11,6 @@ A passionate cloud & devops engineer <br><br>
 
 🔧 I enjoy creating DevOps pipelines and exploring Infrastructure as Code (IaC) practices. My focus is on building CI/CD workflows and deploying real-world applications with cloud-native tools.
 
-🎯 My goal is to help companies achieve faster software delivery, high availability, and operational excellence through automation and cloud-native technologies.
-
-
 
 ## 🌐 Socials:
 ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
