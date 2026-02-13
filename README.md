@@ -5,7 +5,6 @@
 # 💫 About Me:
 
 A passionate cloud & devops engineer <br><br>
-👨‍💻 As someone passionate about automating, scaling, and optimizing software delivery, my mission is to build reliable, secure, and efficient DevOps solutions that bridge the gap between development and operations.
 
 🌐 I’m currently learning and working on tools like Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Terraform, and monitoring tools like Prometheus and Grafana.
 
