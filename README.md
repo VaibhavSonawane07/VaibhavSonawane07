@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-A passionate cloud & devops engineer <br><br>
+Aspiring cloud & devops engineer <br><br>
 🌐 I’m currently learning and working on tools like Docker, Kubernetes, Jenkins, GitHub Actions, Ansible, Terraform, and monitoring tools like Prometheus and Grafana.
 
 🔧 I enjoy creating DevOps pipelines and exploring Infrastructure as Code (IaC) practices. My focus is on building CI/CD workflows and deploying real-world applications with cloud-native tools.
