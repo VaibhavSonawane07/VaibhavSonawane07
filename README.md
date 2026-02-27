@@ -19,7 +19,8 @@ Aspiring cloud & devops engineer <br><br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VaibhavSonawane07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VaibhavSonawane07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSonawane07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VaibhavSonawane07&theme=react)](https://git.io/streak-stats)
 <img src="https://raw.githubusercontent.com/VaibhavSonawane07/assets/main/hipikachu.gif" align="right" width="15%" alt="pikachu-hi">
 ---
