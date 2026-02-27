@@ -23,3 +23,14 @@ Aspiring cloud & devops engineer <br><br>
 [![](https://visitcount.itsvg.in/api?id=VaibhavSonawane07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSonawane07&custom_title=Languages%20I%20have%20used&layout=compact&theme=react&hide_border=true&hide_title=true" />
+  <a href="">
+    <img align="right" src="https://raw.githubusercontent.com/VaibhavSonawane07/assets/main/doggo.gif" width="32%" alt="cutie">
+  </a>
+  </a>
+  <a href="">
+    <img align="left" src="https://github-readme-stats2-blush.vercel.app/api?username=VaibhavSonawane07&theme=react&showicons=true"/>
+  </a>
+</div>
