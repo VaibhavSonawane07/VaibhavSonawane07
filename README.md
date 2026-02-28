@@ -11,7 +11,6 @@ Aspiring cloud & devops engineer <br><br>
 ## 🌐 Socials:
 ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 
 # 💻 Tech Stack:
