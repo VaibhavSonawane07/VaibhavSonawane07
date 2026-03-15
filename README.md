@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm Vaibhav </h1>
 
-# 💫 About Me:
+# 💫 About Me :
 
 Aspiring cloud & devops engineer <br><br>
 🌐 I’m currently learning and working on tools like Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, and monitoring tools like Prometheus and Grafana.
